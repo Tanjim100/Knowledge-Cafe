@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/jV7btBp/pexels-divinetechygirl-1181298.jpg",
+        "title": "Understanding the Basics of Java",
+        "author_img": "https://randomuser.me/api/portraits/men/83.jpg",
+        "author_name": "John Doe",
+        "posted_date": "2024-12-25",
+        "reading_time": "5 min",
+        "hashtags": ["#Java", "#Programming", "#Beginner"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/q76XqBL/pexels-pixabay-270404.jpg",
+        "title": "Top Tips for Responsive Web Design",
+        "author_img": "https://randomuser.me/api/portraits/men/51.jpg",
+        "author_name": "Jane Smith",
+        "posted_date": "2024-12-24",
+        "reading_time": "8 min",
+        "hashtags": ["#WebDesign", "#CSS", "#Responsive"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.imghippo.com/files/IpC1458oaU.jpg",
+        "title": "The Future of AI in Healthcare",
+        "author_img": "https://randomuser.me/api/portraits/women/43.jpg",
+        "author_name": "Sam Brown",
+        "posted_date": "2024-12-23",
+        "reading_time": "10 min",
+        "hashtags": ["#AI", "#Healthcare", "#Innovation"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.imghippo.com/files/GIdd1831Rg.jpg",
+        "title": "Mastering MySQL for Beginners",
+        "author_img": "https://randomuser.me/api/portraits/women/79.jpg",
+        "author_name": "Emily White",
+        "posted_date": "2024-12-22",
+        "reading_time": "7 min",
+        "hashtags": ["#MySQL", "#Database", "#SQL"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/HDdGSdx/pexels-mike-468229-1178684.jpg",
+        "title": "Effective Time Management for Developers",
+        "author_img": "https://randomuser.me/api/portraits/men/9.jpg",
+        "author_name": "Michael Green",
+        "posted_date": "2024-12-21",
+        "reading_time": "6 min",
+        "hashtags": ["#TimeManagement", "#Productivity", "#Developers"]
+    }
+]
+  
