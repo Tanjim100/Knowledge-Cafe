@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
+import PropTypes from 'prop-types';
 
-const Blogs = () => {
+const Blogs = ({blog}) => {
 
     const [blogs, setBlogs] = useState([]);
 
@@ -11,10 +12,14 @@ const Blogs = () => {
     } ,[])
 
     return (
-        <div>
+        <div className="md: w-2/3">
             <h2>Blogs: {blogs.length}</h2>
         </div>
     );
 };
+
+Blogs.PropTypes = {
+    blog: PropTypes.object.isRequired
+}
 
 export default Blogs;
